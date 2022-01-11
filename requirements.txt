@@ -1,0 +1,7 @@
+wget==3.2
+pyedflib==0.1.22
+torch==1.6.0
+scikit-learn==0.24.1
+scipy==1.5.4
+numpy==1.19.5
+fairseq==0.10.2
